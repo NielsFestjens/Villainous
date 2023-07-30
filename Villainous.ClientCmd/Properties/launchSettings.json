@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Villainous.ClientCmd": {
+      "commandName": "Project",
+      "commandLineArgs": "name=Fons startGame"
+    }
+  }
+}
